@@ -2,7 +2,7 @@ git clone https://github.com/bravelkp/royalmap.git
 git status
 git add .
 git status
-git commit -m "´ú¸Õ1"
+git commit -m "測試3"
 git status
 git push
 git status
