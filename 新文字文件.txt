@@ -1,4 +1,4 @@
-git clone https://github.com/bravelkp/royalmap.git
+﻿git clone https://github.com/bravelkp/royalmap.git
 git status
 git add .
 git status
@@ -9,3 +9,4 @@ git status
 git pull
 
 aaa
+測試4
