@@ -1,2 +1,10 @@
-aaa
-1234
+git clone https://github.com/bravelkp/royalmap.git
+git status
+git add .
+git status
+git commit -m "ด๚ธี1"
+git status
+git push
+git status
+git pull
+
